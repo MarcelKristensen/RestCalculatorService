@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplicationProject
+namespace RestCalculatorConsumer
 {
     class Program
     {
@@ -17,5 +17,6 @@ namespace ConsoleApplicationProject
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
         }
+
     }
 }

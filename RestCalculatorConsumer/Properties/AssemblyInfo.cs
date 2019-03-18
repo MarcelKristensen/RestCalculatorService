@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConsoleApplicationProject")]
+[assembly: AssemblyTitle("RestCalculatorConsumer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleApplicationProject")]
+[assembly: AssemblyProduct("RestCalculatorConsumer")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("87b1855a-7053-4bd8-b4a1-74568fdac639")]
+[assembly: Guid("585c16e8-7b95-480e-81d9-40e777dbd8ff")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{87B1855A-7053-4BD8-B4A1-74568FDAC639}</ProjectGuid>
+    <ProjectGuid>{585C16E8-7B95-480E-81D9-40E777DBD8FF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApplicationProject</RootNamespace>
-    <AssemblyName>ConsoleApplicationProject</AssemblyName>
+    <RootNamespace>RestCalculatorConsumer</RootNamespace>
+    <AssemblyName>RestCalculatorConsumer</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
